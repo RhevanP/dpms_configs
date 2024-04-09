@@ -1,0 +1,10 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mandasquare.dicetracker",
+      "sha256_cert_fingerprints": [ "2C:E8:36:1D:62:DE:4B:C8:04:89:C1:8C:1C:8A:7F:8B:E5:01:FE:75:FC:A3:99:C7:1F:0C:D9:F3:C9:5A:CC:33" ]
+    }
+  }
+]
